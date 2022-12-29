@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+fastapi[all]==0.75.0
+python-dotenv==0.20.0
+scikit-learn==1.2.0
